@@ -1,6 +1,10 @@
 # Assignment_4
+
 Name : Dheeraj Kodakandla
+
 ID:700738796
+
+
 Drive video link:https://drive.google.com/file/d/1qZ8N4ke2vrKmZAj0oQ_RL6hC_Yw3Z1Ck/view?usp=sharing
 
 1.	Add one more hidden layer to autoencoder.
